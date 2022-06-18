@@ -1,0 +1,46 @@
+[
+	{
+		"id": "62811666884@s.whatsapp.net",
+		"premium": true,
+		"expire": 2519481470529,
+		"limit": 200000048,
+		"type": "artix",
+		"info": {
+			"age": null,
+			"adult": false
+		}
+	},
+	{
+		"id": "6281268414805@s.whatsapp.net",
+		"premium": true,
+		"expire": 2519481470529,
+		"limit": 200000048,
+		"type": "artix",
+		"info": {
+			"age": null,
+			"adult": false
+		}
+	},
+	{
+		"id": "6285172206884@s.whatsapp.net",
+		"premium": true,
+		"expire": 2519481470530,
+		"limit": 100000049,
+		"type": "artix",
+		"info": {
+			"age": null,
+			"adult": false
+		}
+	},
+	{
+		"id": "628117500550@s.whatsapp.net",
+		"premium": true,
+		"expire": 1741881872752,
+		"limit": 100000049,
+		"type": "artix",
+		"info": {
+			"age": null,
+			"adult": false
+		}
+	}
+]

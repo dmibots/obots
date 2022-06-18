@@ -1,0 +1,738 @@
+{
+	"chats": [
+		{
+			"id": "62811666884@s.whatsapp.net",
+			"unreadCount": 3,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655567995",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQEivvzSGM/+jCKqE6Zl9mDVfhx9ATbDoLTKoYrR95HLv78=",
+			"tcTokenTimestamp": "1654859039",
+			"contactPrimaryIdentityKey": "cUmjfeudEMQjqIrum+ZdT5GLAkju0wth3fqs2dNpGw0=",
+			"tcTokenSenderTimestamp": "1655522934"
+		},
+		{
+			"id": "6282281194187-1622818593@g.us",
+			"unreadCount": 12,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655567824",
+			"name": "KESBANGPOL MANGLAYANG",
+			"pHash": "1:MErW0NT8",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6282172292206-1568805164@g.us",
+			"unreadCount": 54,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655564987",
+			"name": "Keluarga❤️❤️❤️💋💋💋",
+			"pHash": "1:yyrm7RCu",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281267229222-1563105626@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 604800,
+			"conversationTimestamp": "1655537016",
+			"name": "INFO PEMKO TERKINI",
+			"pHash": "1:tlruPMZu",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "628118110914-1345875217@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655531338",
+			"name": "SEGENers SMA Plus",
+			"pHash": "1:BfXHqlmA",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "120363039968082936@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655524808",
+			"name": "KELUARGA BESAR SAWO 12",
+			"pHash": "1:+ghYzuxA",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6282170099090-1510627787@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655521542",
+			"name": "Camat-Lurah Se kota Dumai",
+			"pHash": "1:2qMP7oa1",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6285271117007-1567571941@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655460494",
+			"name": "POLDAGRI RIAU",
+			"pHash": "1:qnTBtLHI",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281219047071-1627262680@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655460278",
+			"name": "BAKOHUMAS KPU DUMAI",
+			"pHash": "1:v/Q9B74A",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6285278330311-1498035769@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655424558",
+			"name": "KESBANGPOL DUMAI",
+			"pHash": "1:QgtVE2Cx",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "447990653714@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655297983",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"contactPrimaryIdentityKey": "cY+X6M/ijkhfSTVLBwefmo6NBEU+8VEE3JXltnfUujY=",
+			"tcTokenSenderTimestamp": "1655297983"
+		},
+		{
+			"id": "6281268414805@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655227315",
+			"notSpam": false,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQEiD23DTGfqjuK2PW2koIGIaXtQ13GovVPuSVzaGxCGwMs=",
+			"tcTokenTimestamp": "1654859005",
+			"tcTokenSenderTimestamp": "1654859005"
+		},
+		{
+			"id": "120363042096542859@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655196359",
+			"name": "Tessss",
+			"pHash": "1:A/P2was7",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281365613607@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655187056",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQGTvdjy6+DJcnWDm9iNfmiJOm+ShbUBQOg6UreqI7lWxjE=",
+			"tcTokenTimestamp": "1655176319",
+			"contactPrimaryIdentityKey": "3Vu3QiHoGfaOcYe/RvIvpfvcJR0FBKaVPcNKkYS4tRE=",
+			"tcTokenSenderTimestamp": "1655178012"
+		},
+		{
+			"id": "6285271117007@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655179049",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQGTkhfC3ieDnF7UZcL0D0NeUshHcC9YPa9GcQ51kKZsI/0=",
+			"tcTokenTimestamp": "1655179040",
+			"contactPrimaryIdentityKey": "oUuWKSnOH90qpScfBd1m27nhGAu42NoNQlqx1MFL1SA=",
+			"tcTokenSenderTimestamp": "1655178277"
+		},
+		{
+			"id": "6282371195000@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655178388",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQGTJXwgfR3py02knL7debRJSFsWLepvsd6MQ4+p4dZ1eeI=",
+			"tcTokenTimestamp": "1655177839",
+			"contactPrimaryIdentityKey": "LOVtW3vKkX/a4Rt9Vf2YSdDl4Az8e/rEwaDz3yYcwz0=",
+			"tcTokenSenderTimestamp": "1655177869"
+		},
+		{
+			"id": "6282169975325@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655178263",
+			"notSpam": true,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQGT9M0ZRsiknGxRTKBIpQ3K2npMrl+BnPdKLnEyIFOIqog=",
+			"tcTokenTimestamp": "1655177889",
+			"contactPrimaryIdentityKey": "1Q8/CsDKRBA8ppDgptvy+rL2KhlA1EIs9MbJsXRyz3o=",
+			"tcTokenSenderTimestamp": "1655177932"
+		},
+		{
+			"id": "628115440044-1475913292@g.us",
+			"unreadCount": 1,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655171813",
+			"name": "WIRA-J/STPDN 14",
+			"pHash": "1:zHe3OscM",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "62811750404@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655088818",
+			"notSpam": false,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQEiXCwDAG+LG+9F0ZdtRaEKB9C3xN4emk9tnsSbUOtEWWU=",
+			"tcTokenTimestamp": "1655088483",
+			"contactPrimaryIdentityKey": "lC6LVLyN9bXZvcfY9NmV5sH9brl0OVD0l/+i4c6p0lY="
+		},
+		{
+			"id": "6289613942652@s.whatsapp.net",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1655027390",
+			"notSpam": false,
+			"disappearingMode": {
+				"initiator": "CHANGED_IN_CHAT"
+			},
+			"unreadMentionCount": 0,
+			"tcToken": "AQEic+78gMoaZa6CzSSBD4f3h61L30aWxHlcoZQojI0ICYQ=",
+			"tcTokenTimestamp": "1655027378",
+			"contactPrimaryIdentityKey": "vg+SZyzoVAW9rhb2Z1bnhSBAMbipSGu9VClIxHZNaFY="
+		},
+		{
+			"id": "1537626392@broadcast",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1654783532",
+			"notSpam": false,
+			"unreadMentionCount": 0
+		},
+		{
+			"id": "120363040000548398@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1649145840",
+			"name": "Bin/ti Ahmad Sani",
+			"pHash": "1:3L74xexL",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "120363022086329211@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1646421028",
+			"name": "Tester",
+			"pHash": "1:6Q7GZkyu",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "62811666884-1625716235@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1625716235",
+			"name": "Partai Politik Dumai",
+			"pHash": "1:drvvWvzK",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281276106766-1607421153@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1607421153",
+			"name": "Monev Pilkada",
+			"pHash": "1:1IYTg+vP",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "62811750404-1585498803@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1585498803",
+			"name": "Poldagri grub",
+			"pHash": "1:x2z9GP28",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281268441284-1557564998@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1557564998",
+			"name": "Pasca Sosiologi Dumai",
+			"pHash": "1:ytr+y95a",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281331283015-1533567251@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1533567251",
+			"name": "BUKOM MUZA",
+			"pHash": "1:zf8gjsHB",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "6281268989033-1529851969@g.us",
+			"unreadCount": 0,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"endOfHistoryTransferType": "COMPLETE_BUT_MORE_MESSAGES_REMAIN_ON_PRIMARY",
+			"conversationTimestamp": "1529851969",
+			"name": "Sdn. 005 Angk. 96",
+			"pHash": "1:6YDD3cSf",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		},
+		{
+			"id": "status@broadcast"
+		},
+		{
+			"id": "966555791323@s.whatsapp.net"
+		},
+		{
+			"id": "628980000897@s.whatsapp.net"
+		},
+		{
+			"id": "62895635773387@s.whatsapp.net"
+		},
+		{
+			"id": "62895374220045@s.whatsapp.net"
+		},
+		{
+			"id": "6288299910571@s.whatsapp.net"
+		},
+		{
+			"id": "6288226734817@s.whatsapp.net"
+		},
+		{
+			"id": "6288210243191@s.whatsapp.net"
+		},
+		{
+			"id": "6285870327129@s.whatsapp.net"
+		},
+		{
+			"id": "6285807255800@s.whatsapp.net"
+		},
+		{
+			"id": "6285782007300@s.whatsapp.net"
+		},
+		{
+			"id": "6285715400949@s.whatsapp.net"
+		},
+		{
+			"id": "6285659168068@s.whatsapp.net"
+		},
+		{
+			"id": "6285376566666@s.whatsapp.net"
+		},
+		{
+			"id": "6285374791179@s.whatsapp.net"
+		},
+		{
+			"id": "6285364653508@s.whatsapp.net"
+		},
+		{
+			"id": "6285364557646@s.whatsapp.net"
+		},
+		{
+			"id": "6285363699995@s.whatsapp.net"
+		},
+		{
+			"id": "6285363569918@s.whatsapp.net"
+		},
+		{
+			"id": "6285283391111@s.whatsapp.net"
+		},
+		{
+			"id": "6285282938749@s.whatsapp.net"
+		},
+		{
+			"id": "6285278889272@s.whatsapp.net"
+		},
+		{
+			"id": "6285278043445@s.whatsapp.net"
+		},
+		{
+			"id": "6285274361630@s.whatsapp.net"
+		},
+		{
+			"id": "6285271597459@s.whatsapp.net"
+		},
+		{
+			"id": "6285271533364@s.whatsapp.net"
+		},
+		{
+			"id": "6285271387031@s.whatsapp.net"
+		},
+		{
+			"id": "6285265823462@s.whatsapp.net"
+		},
+		{
+			"id": "6285265663936@s.whatsapp.net"
+		},
+		{
+			"id": "6285265444912@s.whatsapp.net"
+		},
+		{
+			"id": "6285265118734@s.whatsapp.net"
+		},
+		{
+			"id": "6285263860968@s.whatsapp.net"
+		},
+		{
+			"id": "6285263773300@s.whatsapp.net"
+		},
+		{
+			"id": "6285171522415@s.whatsapp.net"
+		},
+		{
+			"id": "6282392725598@s.whatsapp.net"
+		},
+		{
+			"id": "6282390003961@s.whatsapp.net"
+		},
+		{
+			"id": "6282389506904@s.whatsapp.net"
+		},
+		{
+			"id": "6282388005051@s.whatsapp.net"
+		},
+		{
+			"id": "6282387705402@s.whatsapp.net"
+		},
+		{
+			"id": "6282387424281@s.whatsapp.net"
+		},
+		{
+			"id": "6282385768298@s.whatsapp.net"
+		},
+		{
+			"id": "6282299563237@s.whatsapp.net"
+		},
+		{
+			"id": "6282288369838@s.whatsapp.net"
+		},
+		{
+			"id": "6282284341285@s.whatsapp.net"
+		},
+		{
+			"id": "6282268129664@s.whatsapp.net"
+		},
+		{
+			"id": "6282244329834@s.whatsapp.net"
+		},
+		{
+			"id": "6282218640882@s.whatsapp.net"
+		},
+		{
+			"id": "6282199905588@s.whatsapp.net"
+		},
+		{
+			"id": "6282181113730@s.whatsapp.net"
+		},
+		{
+			"id": "6282174550522@s.whatsapp.net"
+		},
+		{
+			"id": "6282170089111@s.whatsapp.net"
+		},
+		{
+			"id": "6282169493720@s.whatsapp.net"
+		},
+		{
+			"id": "6282121710385@s.whatsapp.net"
+		},
+		{
+			"id": "6281952900107@s.whatsapp.net"
+		},
+		{
+			"id": "6281911500445@s.whatsapp.net"
+		},
+		{
+			"id": "6281398806900@s.whatsapp.net"
+		},
+		{
+			"id": "6281385166166@s.whatsapp.net"
+		},
+		{
+			"id": "6281378800566@s.whatsapp.net"
+		},
+		{
+			"id": "6281378593853@s.whatsapp.net"
+		},
+		{
+			"id": "6281371733421@s.whatsapp.net"
+		},
+		{
+			"id": "6281371714811@s.whatsapp.net"
+		},
+		{
+			"id": "6281371667772@s.whatsapp.net"
+		},
+		{
+			"id": "6281371138069@s.whatsapp.net"
+		},
+		{
+			"id": "6281368789207@s.whatsapp.net"
+		},
+		{
+			"id": "6281365917587@s.whatsapp.net"
+		},
+		{
+			"id": "6281365780994@s.whatsapp.net"
+		},
+		{
+			"id": "6281365695288@s.whatsapp.net"
+		},
+		{
+			"id": "6281365686868@s.whatsapp.net"
+		},
+		{
+			"id": "6281365577590@s.whatsapp.net"
+		},
+		{
+			"id": "6281365534469@s.whatsapp.net"
+		},
+		{
+			"id": "6281365266386@s.whatsapp.net"
+		},
+		{
+			"id": "6281332568347@s.whatsapp.net"
+		},
+		{
+			"id": "6281277985655@s.whatsapp.net"
+		},
+		{
+			"id": "6281277918000@s.whatsapp.net"
+		},
+		{
+			"id": "628127692461@s.whatsapp.net"
+		},
+		{
+			"id": "628127657924@s.whatsapp.net"
+		},
+		{
+			"id": "628127639669@s.whatsapp.net"
+		},
+		{
+			"id": "628127605778@s.whatsapp.net"
+		},
+		{
+			"id": "6281275849078@s.whatsapp.net"
+		},
+		{
+			"id": "628127568764@s.whatsapp.net"
+		},
+		{
+			"id": "6281275252759@s.whatsapp.net"
+		},
+		{
+			"id": "6281275153750@s.whatsapp.net"
+		},
+		{
+			"id": "6281270942843@s.whatsapp.net"
+		},
+		{
+			"id": "6281270094831@s.whatsapp.net"
+		},
+		{
+			"id": "6281270044040@s.whatsapp.net"
+		},
+		{
+			"id": "628126854658@s.whatsapp.net"
+		},
+		{
+			"id": "6281268294564@s.whatsapp.net"
+		},
+		{
+			"id": "6281268240992@s.whatsapp.net"
+		},
+		{
+			"id": "628126821918@s.whatsapp.net"
+		},
+		{
+			"id": "6281268110890@s.whatsapp.net"
+		},
+		{
+			"id": "6281267908177@s.whatsapp.net"
+		},
+		{
+			"id": "6281239279063@s.whatsapp.net"
+		},
+		{
+			"id": "6281233782527@s.whatsapp.net"
+		},
+		{
+			"id": "6281229464371@s.whatsapp.net"
+		},
+		{
+			"id": "6281227091003@s.whatsapp.net"
+		},
+		{
+			"id": "6281222669997@s.whatsapp.net"
+		},
+		{
+			"id": "628122023220@s.whatsapp.net"
+		},
+		{
+			"id": "628121824141@s.whatsapp.net"
+		},
+		{
+			"id": "6281217465592@s.whatsapp.net"
+		},
+		{
+			"id": "628119991898@s.whatsapp.net"
+		},
+		{
+			"id": "62811762625@s.whatsapp.net"
+		},
+		{
+			"id": "62811761897@s.whatsapp.net"
+		},
+		{
+			"id": "628117593333@s.whatsapp.net"
+		},
+		{
+			"id": "628117584138@s.whatsapp.net"
+		},
+		{
+			"id": "628117570555@s.whatsapp.net"
+		},
+		{
+			"id": "628117509600@s.whatsapp.net"
+		},
+		{
+			"id": "62811750370@s.whatsapp.net"
+		},
+		{
+			"id": "62811750039@s.whatsapp.net"
+		},
+		{
+			"id": "628117077072@s.whatsapp.net"
+		},
+		{
+			"id": "628116831883@s.whatsapp.net"
+		},
+		{
+			"id": "60176022376@s.whatsapp.net"
+		},
+		{
+			"id": "601139229986@s.whatsapp.net"
+		},
+		{
+			"id": "556581117363@s.whatsapp.net"
+		},
+		{
+			"id": "6281275323261-1579076316@g.us",
+			"unreadCount": 4,
+			"readOnly": false,
+			"ephemeralExpiration": 0,
+			"conversationTimestamp": "1654817257",
+			"name": "Materai 6000 team🤣🤣",
+			"pHash": "1:fe13hhci",
+			"notSpam": true,
+			"unreadMentionCount": 0,
+			"suspended": false
+		}
+	]
+}
