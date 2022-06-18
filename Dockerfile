@@ -9,10 +9,10 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN yarn install && yarn install qrcode-terminal && yarn install pm2 -g 
+RUN yarn install && yarn add qrcode-terminal
 
 COPY . .
 
-EXPOSE 3000
+EXPOSE 5000
 
 CMD ["node"]
