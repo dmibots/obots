@@ -26,7 +26,7 @@ module.exports = {
 
 				if (cityData.length === 1) {
 					// get prayer times by city id
-					citySchedule = await getJadwal(cityData[0]?.id, "bulanan");
+					citySchedule = await getJadwal(cityData[0]?.id, "harian");
 					await msg.reply(citySchedule);
 				} else {
 					for (let idx in cityData) {

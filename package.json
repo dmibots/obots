@@ -9,7 +9,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "^4.3.0",
     "@vitalets/google-translate-api": "^8.0.0",
     "axios": "^0.27.2",
     "brainly-scraper-v2": "1.1.2",
@@ -34,7 +34,7 @@
     "bluebird": "^3.7.2",
     "jimp": "^0.16.1",
     "node-cron": "^3.0.0",
-    "pino": "^7.6.5",
+    "pino": "^7.0.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
